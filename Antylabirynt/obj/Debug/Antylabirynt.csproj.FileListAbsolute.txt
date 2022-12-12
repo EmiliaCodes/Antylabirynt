@@ -1,0 +1,12 @@
+D:\Studia\7 semestr\Obiektowe metody\Antylabirynt-master\Antylabirynt-master\Antylabirynt\obj\Debug\Antylabirynt.csproj.AssemblyReference.cache
+D:\Studia\7 semestr\Obiektowe metody\Antylabirynt-master\Antylabirynt-master\Antylabirynt\obj\Debug\Antylabirynt.csproj.SuggestedBindingRedirects.cache
+D:\Studia\7 semestr\Obiektowe metody\Antylabirynt-master\Antylabirynt-master\Antylabirynt\bin\Debug\Antylabirynt.exe.config
+D:\Studia\7 semestr\Obiektowe metody\Antylabirynt-master\Antylabirynt-master\Antylabirynt\bin\Debug\Antylabirynt.exe
+D:\Studia\7 semestr\Obiektowe metody\Antylabirynt-master\Antylabirynt-master\Antylabirynt\bin\Debug\Antylabirynt.pdb
+D:\Studia\7 semestr\Obiektowe metody\Antylabirynt-master\Antylabirynt-master\Antylabirynt\obj\Debug\Antylabirynt.Properties.Resources.resources
+D:\Studia\7 semestr\Obiektowe metody\Antylabirynt-master\Antylabirynt-master\Antylabirynt\obj\Debug\Antylabirynt.csproj.GenerateResource.cache
+D:\Studia\7 semestr\Obiektowe metody\Antylabirynt-master\Antylabirynt-master\Antylabirynt\obj\Debug\Antylabirynt.csproj.CoreCompileInputs.cache
+D:\Studia\7 semestr\Obiektowe metody\Antylabirynt-master\Antylabirynt-master\Antylabirynt\obj\Debug\Antylabirynt.exe
+D:\Studia\7 semestr\Obiektowe metody\Antylabirynt-master\Antylabirynt-master\Antylabirynt\obj\Debug\Antylabirynt.pdb
+D:\Studia\7 semestr\Obiektowe metody\Antylabirynt-master\Antylabirynt-master\Antylabirynt\obj\Debug\Antylabirynt.GameForm.resources
+D:\Studia\7 semestr\Obiektowe metody\Antylabirynt-master\Antylabirynt-master\Antylabirynt\obj\Debug\Antylabirynt.OpeningForm.resources
